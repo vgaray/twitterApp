@@ -1,2 +1,2 @@
 # twitterApp
-demo app
+frontend side
